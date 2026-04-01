@@ -19,16 +19,15 @@ I enjoy creating products with clear design thinking, strong interfaces, and a b
 ## About Me
 
 ```txt
-Profile Summary
------------------------------------------
-Identity        Le Thuan
-Location        Vietnam
-Background      Computer Science Student
-Focus Area      Data, UI/UX, human-centered technology
-Core Strength   User behavior and audience analysis
-Work Style      Careful, persistent, honest
-Mindset         Logic-driven, practical, user-focused
-Design View     Clear interfaces and thoughtful user experience
+[Profile Record]
+name            = "Le Thuan"
+location        = "Vietnam"
+background      = "Computer Science Student"
+specialty       = "User behavior and audience analysis"
+interests       = ["data", "mathematics", "ui/ux", "frontend"]
+work_style      = ["careful", "persistent", "honest"]
+focus_area      = "Human-centered technology"
+design_view     = "Clear interfaces and thoughtful user experience"
 ```
 
 ## Snapshot
