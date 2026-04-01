@@ -1,4 +1,4 @@
-# Hi, I'm Bingenz
+# Hi, I'm Bingenz (demo profile)
 
 `Builder` `Problem Solver` `Always Shipping`
 
