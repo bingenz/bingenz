@@ -10,6 +10,7 @@ I explore the intersection of computer science, data, human behavior, and interf
 My goal is to build technology that is logically structured, practically useful, and easier for people to understand and use.
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
+[![Community](https://img.shields.io/badge/Community-2563eb?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/1083123091540550?locale=vi_VN)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
 [![Website](https://img.shields.io/badge/Website-bingenz.com-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
 
