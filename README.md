@@ -15,6 +15,7 @@ I aim to build technology that is **clear in structure, practical in use, and th
 
 <br/>
 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
 [![Website](https://img.shields.io/badge/Website-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bingenz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
