@@ -11,8 +11,8 @@ My goal is to build technology that is logically structured, practically useful,
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
 [![Community](https://img.shields.io/badge/Community-2563eb?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/1083123091540550?locale=vi_VN)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
 [![Website](https://img.shields.io/badge/Website-bingenz.com-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-%40bingenz__-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
 
 </div>
 
@@ -61,8 +61,12 @@ flowchart LR
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bingenz&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats for bingenz" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingenz&layout=compact&theme=transparent&hide_border=true" alt="Top languages for bingenz" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bingenz&theme=github_dark" alt="GitHub profile summary for bingenz" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bingenz&theme=github_dark" alt="Repositories by language for bingenz" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bingenz&theme=github_dark" alt="Most commit language for bingenz" />
 </div>
 
 ## What I'm Focused On
