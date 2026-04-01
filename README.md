@@ -58,11 +58,12 @@ Known For  : Thinking carefully, working with honesty, and building with clear p
 
 ## Featured Work
 
-Selected repositories:
+I am currently developing my work around:
 
-- [`SrcCodeMEME`](https://github.com/bingenz/SrcCodeMEME) - an HTML-based project connected to premium account distribution through Bingenz.com
-- [`interview-company-wise-problems`](https://github.com/bingenz/interview-company-wise-problems) - a forked reference repository of company-wise coding questions organized for structured interview preparation
-- [`bingenz`](https://github.com/bingenz/bingenz) - my GitHub profile repository, used to present my technical direction, interests, and current focus
+- `Data and analysis` - exploring patterns, reasoning, and structured decision-making
+- `Human behavior` - understanding how people think, choose, and interact with systems
+- `UI and UX systems` - designing interfaces that are clear, usable, and purposeful
+- `Computer science foundations` - strengthening logic, systems thinking, and problem-solving
 
 ## Tech I Like Working With
 
