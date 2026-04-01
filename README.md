@@ -32,15 +32,32 @@ focus_area      = "Data-informed and human-centered technology"
 design_view     = "Clear structure, usable interfaces, thoughtful experience"
 ```
 
-## Snapshot
+## System Summary
 
 ```txt
-Location   : Vietnam
-Focus      : Data, user behavior, UI and UX optimization
-Style      : Structured, practical, human-centered
-Mindset    : Think clearly, build carefully, improve continuously
+Input      : Computer science, mathematics, data, human behavior
+Process    : Analysis, systems thinking, structured problem solving
+Output     : Clear interfaces, useful products, better user experience
+Constraint : Practical value, logical structure, real user needs
 Goal       : Build a strong foundation in computer science, data, and systems thinking while creating practical technology with real user value
 Known For  : Thinking carefully, working with honesty, and building with clear purpose
+```
+
+## Research Interests
+
+- `Behavior modeling` - understanding how users think, choose, and respond to digital systems
+- `Decision systems` - exploring how structure, logic, and data support better outcomes
+- `Human-computer interaction` - studying how people engage with interfaces and digital experiences
+- `Data reasoning` - using patterns and analysis to support practical thinking and product direction
+
+## Study Map
+
+```mermaid
+flowchart LR
+    A["Computer Science"] --> B["Data Thinking"]
+    B --> C["Behavior Analysis"]
+    C --> D["Better Interfaces"]
+    D --> E["Useful Technology"]
 ```
 
 ## GitHub Stats
