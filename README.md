@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-bingenz.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
+[![Website](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=36&section=header&text=bingenz.com&fontSize=18&fontColor=ffffff&animation=fadeIn)](https://bingenz.com/)
 
 # Hi, I'm Bingenz
 
