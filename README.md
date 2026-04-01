@@ -9,10 +9,10 @@ Computer Science student interested in data, behavior, and systems thinking.
 I explore the intersection of computer science, data, human behavior, and interface design.  
 My goal is to build technology that is logically structured, practically useful, and easier for people to understand and use.
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
+[![Website](https://img.shields.io/badge/Website-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
 [![Community](https://img.shields.io/badge/Community-2563eb?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/1083123091540550?locale=vi_VN)
-[![Website](https://img.shields.io/badge/Website-bingenz.com-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-%40bingenz__-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
 
 </div>
 
