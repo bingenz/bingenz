@@ -2,7 +2,7 @@
 
 # Hi, I'm Bingenz
 
-`Computer Science` `Behavior Analysis` `Systems Thinking`
+`Computer Science` `Web Systems` `Human-Computer Interaction`
 
 Computer Science student interested in data, behavior, and systems thinking.
 
@@ -23,7 +23,7 @@ My goal is to build technology that is logically structured, practically useful,
 name            = "Le Thuan"
 location        = "Vietnam"
 background      = "Computer Science Student"
-specialty       = "User behavior and audience analysis"
+specialty       = "Web systems and automation"
 interests       = ["data", "mathematics", "ui/ux", "frontend systems"]
 work_style      = ["careful", "persistent", "honest"]
 focus_area      = "Data-informed and human-centered technology"
@@ -37,16 +37,26 @@ Foundation : Computer science, mathematics, data, human behavior
 Approach   : Analysis, systems thinking, structured problem solving
 Outcome    : Clear interfaces, useful products, better user experience
 Principles : Practical value, logical structure, real user needs
-Goal       : Build a strong foundation in computer science, data, and systems thinking while creating practical technology with real user value
+Goal       : Build a strong foundation in computer science and systems thinking while creating practical technology with real user value
 Known For  : Thinking carefully, working with honesty, and building with clear purpose
 ```
 
-## Research Interests
+## Interests
 
-- `Behavior modeling` - understanding how users think, choose, and respond to digital systems
-- `Decision systems` - exploring how structure, logic, and data support better outcomes
-- `Human-computer interaction` - studying how people engage with interfaces and digital experiences
-- `Data reasoning` - using patterns and analysis to support practical thinking and product direction
+- `Human-computer interaction` — studying how people engage with interfaces and digital experiences
+- `Behavior & decision-making` — understanding how users think, choose, and respond to digital systems
+- `Data reasoning` — using patterns and analysis to support practical thinking and product direction
+- `Interface design` — building systems that are clear, usable, and purposeful
+- `Blockchain` — exploring decentralized systems, smart contracts, and trust mechanisms in digital infrastructure
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Study Map
 
@@ -76,24 +86,6 @@ flowchart LR
 - Improving interfaces through clarity, usability, and real user needs
 - Building projects where analytical thinking and design thinking work together
 - Focusing on useful systems rather than unnecessary complexity
-
-## Featured Work
-
-I am currently developing my work around:
-
-- `Data and analysis` - exploring patterns, reasoning, and structured decision-making
-- `Human behavior` - understanding how people think, choose, and interact with systems
-- `UI and UX systems` - designing interfaces that are clear, usable, and purposeful
-- `Computer science foundations` - strengthening logic, systems thinking, and problem-solving
-
-## Tech I Like Working With
-
-```txt
-Core Areas   : Computer science, mathematics, data analysis, behavioral reasoning
-Technical    : Structured problem solving, systems thinking, logical modeling
-Frontend     : Interface architecture, usability, user experience refinement
-Interests    : Human-computer interaction, practical technology, applied design
-```
 
 ## Connect
 
