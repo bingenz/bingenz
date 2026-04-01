@@ -19,20 +19,27 @@ I'm especially interested in clean UI, practical tools, and projects that people
 ```ts
 const bingenz = {
   location: "Vietnam",
-  role: "Developer / Builder",
+  name: "Le Thuan",
+  role: "Computer Science Student / Builder",
   interests: [
-    "frontend experiences",
-    "automation",
-    "practical products",
-    "clean UI",
-    "problem solving"
+    "mathematics",
+    "data-driven thinking",
+    "user psychology",
+    "behavior analysis",
+    "user experience optimization"
   ],
   currentlyLearning: [
-    "system design",
-    "better product thinking",
-    "shipping faster with quality"
+    "computer science",
+    "data thinking",
+    "human-centered product design"
   ],
-  philosophy: "Build things people actually enjoy using."
+  strengths: [
+    "understanding target users",
+    "analyzing behavior",
+    "improving interface quality",
+    "thinking carefully before building"
+  ],
+  philosophy: "Good technology starts with understanding people."
 };
 ```
 
@@ -40,23 +47,12 @@ const bingenz = {
 
 ```txt
 Location   : Vietnam
-Focus      : Web development, UI polish, practical tools
-Style      : Clean, useful, simple but thoughtful
-Mindset    : Keep learning, keep building, keep improving
+Focus      : Data, user behavior, UI and UX optimization
+Style      : Careful, practical, human-centered
+Mindset    : Build with logic, improve with honesty
+Goal       : Strengthen my computer science foundation and create technology that is both innovative and genuinely useful
+Known For  : Understanding users deeply and turning that insight into better product decisions
 ```
-
-## Profile Questions
-
-You can answer these later and I can turn them into a stronger profile:
-
-- What kind of projects do you enjoy building the most?
-- What are 3 words that describe your personality?
-- What do you want people to remember when they visit your profile?
-- Which tech or skills do you want to be known for?
-- Are you more into design, frontend, backend, or all-around building?
-- What kind of opportunities are you open to right now?
-- What project are you most proud of, and why?
-- What are you currently learning or improving?
 
 ## GitHub Stats
 
@@ -67,27 +63,28 @@ You can answer these later and I can turn them into a stronger profile:
 
 ## What I'm Focused On
 
-- Building polished web projects with strong UX
-- Writing maintainable code instead of quick hacks
-- Exploring tools that save time and reduce repetitive work
-- Growing through real projects, not just tutorials
+- Studying computer science with a strong analytical mindset
+- Exploring data, logic, and technology through practical work
+- Improving interfaces and user experiences with more intention
+- Understanding how people think before designing what they use
+- Creating useful products instead of building for complexity alone
 
 ## Featured Work
 
-Pick a few of your best repositories and pin them on your profile page:
+I am currently building my body of work around:
 
-- `project-name-1` - short sentence about what it does
-- `project-name-2` - short sentence about the problem it solves
-- `project-name-3` - short sentence about why it is interesting
-- `project-name-4` - short sentence about the stack or impact
+- `Data-oriented projects` - work that helps me think more clearly through numbers, patterns, and structure
+- `UX improvement ideas` - projects focused on making interfaces easier, smoother, and more intuitive
+- `Creative technology experiments` - ideas that combine analysis, design thinking, and new technology
+- `Problem-solving builds` - practical projects shaped by real user behavior and real needs
 
 ## Tech I Like Working With
 
 ```txt
-Frontend   : HTML, CSS, JavaScript, TypeScript, React
-Backend    : Node.js, APIs, automation scripts
-Design     : UI structure, content hierarchy, polish
-Workflow   : Git, GitHub, iteration, shipping
+Thinking    : Mathematics, logic, data, behavior analysis
+Frontend    : UI structure, usability, user experience improvement
+Interests   : Computer science, practical technology, innovation
+Workflow    : Careful analysis, honest iteration, continuous improvement
 ```
 
 ## Connect
