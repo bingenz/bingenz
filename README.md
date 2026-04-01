@@ -35,10 +35,10 @@ design_view     = "Clear structure, usable interfaces, thoughtful experience"
 ## System Summary
 
 ```txt
-Input      : Computer science, mathematics, data, human behavior
-Process    : Analysis, systems thinking, structured problem solving
-Output     : Clear interfaces, useful products, better user experience
-Constraint : Practical value, logical structure, real user needs
+Foundation : Computer science, mathematics, data, human behavior
+Approach   : Analysis, systems thinking, structured problem solving
+Outcome    : Clear interfaces, useful products, better user experience
+Principles : Practical value, logical structure, real user needs
 Goal       : Build a strong foundation in computer science, data, and systems thinking while creating practical technology with real user value
 Known For  : Thinking carefully, working with honesty, and building with clear purpose
 ```
