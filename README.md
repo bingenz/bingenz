@@ -4,8 +4,10 @@
 
 `Builder` `UI Lover` `Always Improving`
 
-I enjoy building useful things on the web, improving user experience, and turning simple ideas into polished products.  
-I'm especially interested in clean UI, practical tools, and projects that people can actually use every day.
+Computer Science student focused on data, behavior, and human-centered technology.
+
+I am interested in the intersection of computer science, data, human behavior, and thoughtful user experience.  
+I enjoy creating products with clear design thinking, strong interfaces, and a better experience for real users.
 
 [![GitHub followers](https://img.shields.io/github/followers/bingenz?style=for-the-badge&logo=github&label=Follow)](https://github.com/bingenz)
 [![Profile views](https://komarev.com/ghpvc/?username=bingenz&style=for-the-badge&color=0e7490)](https://github.com/bingenz)
@@ -39,7 +41,7 @@ const bingenz = {
     "improving interface quality",
     "thinking carefully before building"
   ],
-  philosophy: "Good technology starts with understanding people."
+  philosophy: "I like creating products with clear design thinking, focused interfaces, and thoughtful user experience."
 };
 ```
 
@@ -73,10 +75,10 @@ Known For  : Thinking carefully, working with honesty, and building with clear p
 
 I am currently building my body of work around:
 
-- `Data-oriented projects` - work that helps me think more clearly through numbers, patterns, and structure
-- `UX improvement ideas` - projects focused on making interfaces easier, smoother, and more intuitive
-- `Creative technology experiments` - ideas that combine analysis, design thinking, and new technology
-- `Problem-solving builds` - practical projects shaped by real user behavior and real needs
+- `Data and analysis projects` - work that helps me understand patterns, behavior, and decision-making more clearly
+- `UI and UX projects` - projects focused on improving interfaces, usability, and the overall experience of the user
+- `Frontend builds` - practical work where design thinking and implementation come together
+- `Human-centered ideas` - products shaped by both logic and the real needs of the people who use them
 
 ## Tech I Like Working With
 
