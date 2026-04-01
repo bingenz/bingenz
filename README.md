@@ -18,31 +18,16 @@ I enjoy creating products with clear design thinking, strong interfaces, and a b
 
 ## About Me
 
-```ts
-const bingenz = {
-  location: "Vietnam",
-  name: "Le Thuan",
-  role: "Computer Science Student / Builder",
-  interests: [
-    "mathematics",
-    "data-driven thinking",
-    "user psychology",
-    "behavior analysis",
-    "user experience optimization"
-  ],
-  currentlyLearning: [
-    "computer science",
-    "data thinking",
-    "human-centered product design"
-  ],
-  strengths: [
-    "understanding target users",
-    "analyzing behavior",
-    "improving interface quality",
-    "thinking carefully before building"
-  ],
-  philosophy: "I like creating products with clear design thinking, focused interfaces, and thoughtful user experience."
-};
+```txt
+Field                Value
+Name                 Le Thuan
+Location             Vietnam
+Background           Computer Science Student
+Core Strength        User behavior and audience psychology analysis
+Main Interests       Data, mathematics, UI/UX, frontend
+Working Style        Careful, persistent, honest
+Current Focus        Human-centered technology and better user experience
+Philosophy           Clear design thinking, focused interfaces, useful products
 ```
 
 ## Snapshot
