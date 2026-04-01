@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-bingenz.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
+
 # Hi, I'm Bingenz
 
 `Computer Science` `Behavior Analysis` `Systems Thinking`
