@@ -50,8 +50,8 @@ Location   : Vietnam
 Focus      : Data, user behavior, UI and UX optimization
 Style      : Careful, practical, human-centered
 Mindset    : Build with logic, improve with honesty
-Goal       : Strengthen my computer science foundation and create technology that is both innovative and genuinely useful
-Known For  : Understanding users deeply and turning that insight into better product decisions
+Goal       : Build a strong foundation in computer science, data, and systems thinking while creating technology that is practical, useful, and human-centered
+Known For  : Thinking carefully, working with honesty, and building with clear purpose
 ```
 
 ## GitHub Stats
