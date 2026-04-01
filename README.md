@@ -1,14 +1,18 @@
-# Hi, I'm Bingenz (demo profile)
+<div align="center">
+
+# Hi, I'm Bingenz
 
 `Builder` `UI Lover` `Always Improving`
 
-I enjoy building useful things on the web, improving user experience, and turning simple ideas into polished products.
+I enjoy building useful things on the web, improving user experience, and turning simple ideas into polished products.  
 I'm especially interested in clean UI, practical tools, and projects that people can actually use every day.
 
 [![GitHub followers](https://img.shields.io/github/followers/bingenz?style=for-the-badge&logo=github&label=Follow)](https://github.com/bingenz)
 [![Profile views](https://komarev.com/ghpvc/?username=bingenz&style=for-the-badge&color=0e7490)](https://github.com/bingenz)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bin83638?locale=vi_VN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
+
+</div>
 
 ## About Me
 
@@ -32,6 +36,15 @@ const bingenz = {
 };
 ```
 
+## Snapshot
+
+```txt
+Location   : Vietnam
+Focus      : Web development, UI polish, practical tools
+Style      : Clean, useful, simple but thoughtful
+Mindset    : Keep learning, keep building, keep improving
+```
+
 ## Profile Questions
 
 You can answer these later and I can turn them into a stronger profile:
@@ -44,6 +57,13 @@ You can answer these later and I can turn them into a stronger profile:
 - What kind of opportunities are you open to right now?
 - What project are you most proud of, and why?
 - What are you currently learning or improving?
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bingenz&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats for bingenz" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingenz&layout=compact&theme=transparent&hide_border=true" alt="Top languages for bingenz" />
+</div>
 
 ## What I'm Focused On
 
@@ -73,6 +93,8 @@ Workflow   : Git, GitHub, iteration, shipping
 ## Connect
 
 - GitHub: [github.com/bingenz](https://github.com/bingenz)
+- Facebook: [facebook.com/share/1AUUKX6NHa](https://www.facebook.com/share/1AUUKX6NHa/)
+- TikTok: [tiktok.com/@bingenz_](https://www.tiktok.com/@bingenz_?lang=en)
 
 ---
 
