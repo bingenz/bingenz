@@ -2,7 +2,7 @@
 
 # Hi, I'm Bingenz
 
-`Computer Science` `Data Thinking` `Human-Centered Design`
+`Computer Science` `Behavior Analysis` `Systems Thinking`
 
 Computer Science student interested in data, behavior, and systems thinking.
 
@@ -68,10 +68,10 @@ I am currently developing my work around:
 ## Tech I Like Working With
 
 ```txt
-Core Areas   : Computer science, mathematics, data, behavior analysis
-Frontend     : Interface structure, usability, user experience improvement
-Interests    : Systems thinking, practical technology, thoughtful design
-Workflow     : Careful analysis, honest iteration, continuous improvement
+Core Areas   : Computer science, mathematics, data analysis, behavioral reasoning
+Technical    : Structured problem solving, systems thinking, logical modeling
+Frontend     : Interface architecture, usability, user experience refinement
+Interests    : Human-computer interaction, practical technology, applied design
 ```
 
 ## Connect
