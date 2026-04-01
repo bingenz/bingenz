@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Website](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=36&section=header&text=bingenz.com&fontSize=18&fontColor=ffffff&animation=fadeIn)](https://bingenz.com/)
-
 # Hi, I'm Bingenz
 
 `Computer Science` `Behavior Analysis` `Systems Thinking`
@@ -11,10 +9,9 @@ Computer Science student interested in data, behavior, and systems thinking.
 I explore the intersection of computer science, data, human behavior, and interface design.  
 My goal is to build technology that is logically structured, practically useful, and easier for people to understand and use.
 
-[![GitHub followers](https://img.shields.io/github/followers/bingenz?style=for-the-badge&logo=github&label=Follow)](https://github.com/bingenz)
-[![Profile views](https://komarev.com/ghpvc/?username=bingenz&style=for-the-badge&color=0e7490)](https://github.com/bingenz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AUUKX6NHa/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bingenz_?lang=en)
+[![Website](https://img.shields.io/badge/Website-bingenz.com-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bingenz.com/)
 
 </div>
 
