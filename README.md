@@ -2,12 +2,12 @@
 
 # Hi, I'm Bingenz
 
-`Builder` `UI Lover` `Always Improving`
+`Computer Science` `Data Thinking` `Human-Centered Design`
 
-Computer Science student focused on data, behavior, and human-centered technology.
+Computer Science student interested in data, behavior, and systems thinking.
 
-I am interested in the intersection of computer science, data, human behavior, and thoughtful user experience.  
-I enjoy creating products with clear design thinking, strong interfaces, and a better experience for real users.
+I explore the intersection of computer science, data, human behavior, and interface design.  
+My goal is to build technology that is logically structured, practically useful, and easier for people to understand and use.
 
 [![GitHub followers](https://img.shields.io/github/followers/bingenz?style=for-the-badge&logo=github&label=Follow)](https://github.com/bingenz)
 [![Profile views](https://komarev.com/ghpvc/?username=bingenz&style=for-the-badge&color=0e7490)](https://github.com/bingenz)
@@ -24,10 +24,10 @@ name            = "Le Thuan"
 location        = "Vietnam"
 background      = "Computer Science Student"
 specialty       = "User behavior and audience analysis"
-interests       = ["data", "mathematics", "ui/ux", "frontend"]
+interests       = ["data", "mathematics", "ui/ux", "frontend systems"]
 work_style      = ["careful", "persistent", "honest"]
-focus_area      = "Human-centered technology"
-design_view     = "Clear interfaces and thoughtful user experience"
+focus_area      = "Data-informed and human-centered technology"
+design_view     = "Clear structure, usable interfaces, thoughtful experience"
 ```
 
 ## Snapshot
@@ -35,9 +35,9 @@ design_view     = "Clear interfaces and thoughtful user experience"
 ```txt
 Location   : Vietnam
 Focus      : Data, user behavior, UI and UX optimization
-Style      : Careful, practical, human-centered
-Mindset    : Build with logic, improve with honesty
-Goal       : Build a strong foundation in computer science, data, and systems thinking while creating technology that is practical, useful, and human-centered
+Style      : Structured, practical, human-centered
+Mindset    : Think clearly, build carefully, improve continuously
+Goal       : Build a strong foundation in computer science, data, and systems thinking while creating practical technology with real user value
 Known For  : Thinking carefully, working with honesty, and building with clear purpose
 ```
 
@@ -50,28 +50,28 @@ Known For  : Thinking carefully, working with honesty, and building with clear p
 
 ## What I'm Focused On
 
-- Studying computer science with a strong analytical mindset
-- Exploring data, logic, and technology through practical work
-- Improving interfaces and user experiences with more intention
-- Understanding how people think before designing what they use
-- Creating useful products instead of building for complexity alone
+- Strengthening my foundation in computer science, data, and structured problem solving
+- Studying how behavior and decision-making can inform better product design
+- Improving interfaces through clarity, usability, and real user needs
+- Building projects where analytical thinking and design thinking work together
+- Focusing on useful systems rather than unnecessary complexity
 
 ## Featured Work
 
-I am currently building my body of work around:
+I am building my work around:
 
-- `Data and analysis projects` - work that helps me understand patterns, behavior, and decision-making more clearly
-- `UI and UX projects` - projects focused on improving interfaces, usability, and the overall experience of the user
-- `Frontend builds` - practical work where design thinking and implementation come together
-- `Human-centered ideas` - products shaped by both logic and the real needs of the people who use them
+- `Data and analysis projects` - work centered on patterns, reasoning, and better decisions
+- `UI and UX projects` - interfaces designed to be clearer, more usable, and more intentional
+- `Frontend systems` - implementation that connects structure, logic, and visual experience
+- `Human-centered products` - ideas shaped by both technical thinking and the realities of user behavior
 
 ## Tech I Like Working With
 
 ```txt
-Thinking    : Mathematics, logic, data, behavior analysis
-Frontend    : UI structure, usability, user experience improvement
-Interests   : Computer science, practical technology, innovation
-Workflow    : Careful analysis, honest iteration, continuous improvement
+Core Areas   : Computer science, mathematics, data, behavior analysis
+Frontend     : Interface structure, usability, user experience improvement
+Interests    : Systems thinking, practical technology, thoughtful design
+Workflow     : Careful analysis, honest iteration, continuous improvement
 ```
 
 ## Connect
@@ -82,4 +82,4 @@ Workflow    : Careful analysis, honest iteration, continuous improvement
 
 ---
 
-> Still learning, still building, still improving every version.
+> Learning deeply, building carefully, and improving with every iteration.
