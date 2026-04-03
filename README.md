@@ -10,7 +10,7 @@ Currently learning backend development, data, and software building with clarity
 - Data and analytical thinking
 - Clear and usable interfaces
 
-## Tech Stack
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
