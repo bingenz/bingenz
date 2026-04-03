@@ -5,10 +5,10 @@ Computer Science student from Vietnam.
 Currently learning backend development, data, and software building with clarity, structure, and practical thinking.
 
 ## Interests
-- Backend development
-- Blockchain
-- Data and analytical thinking
-- Clear and usable interfaces
+•Data structures and algorithms
+•Backend architecture and API design
+•Smart contracts and blockchain systems
+•Human-computer interaction fundamentals
 
 ## Languages and Tools
 
