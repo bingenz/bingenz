@@ -1,14 +1,33 @@
 # Le Thuan
 
-Computer Science student from Vietnam.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Le+Thuan;Computer+Science+student+from+Vietnam;Backend+%7C+Data+%7C+Software+Building" alt="Typing SVG" />
+</p>
 
-Currently learning backend development, data, and software building with clarity, structure, and practical thinking.
+<p align="center">
+  Computer Science student from Vietnam.<br>
+  Currently learning backend development, data, and software building with clarity, structure, and practical thinking.
+</p>
+
+---
+
+## About Me
+
+- Computer Science student from Vietnam
+- Interested in backend development, data, and practical software systems
+- Learning with a focus on clarity, structure, and long-term engineering thinking
+- Building a strong foundation in programming, systems, and real-world development
+
+---
 
 ## Interests
+
 - Backend development
 - Smart contracts and blockchain systems
 - Data and analytical thinking
 - Clear and usable interfaces
+
+---
 
 ## 💻 My favorite tools and technologies
 
@@ -52,6 +71,10 @@ Currently learning backend development, data, and software building with clarity
       <br>GitHub
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
       <br>Linux
     </td>
@@ -62,10 +85,6 @@ Currently learning backend development, data, and software building with clarity
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      <br>VS Code
     </td>
   </tr>
 
@@ -99,17 +118,21 @@ Currently learning backend development, data, and software building with clarity
 
 </div>
 
+---
+
 ## Contact
 
-<a href="https://bingenz.com">
-  <img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://github.com/bingenz">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.tiktok.com/@bingenz_">
-  <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://www.facebook.com/share/1AUUKX6NHa/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+<p align="left">
+  <a href="https://bingenz.com">
+    <img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/bingenz">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.tiktok.com/@bingenz_">
+    <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.facebook.com/share/1AUUKX6NHa/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
