@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 My favorite tools and technologies
+## My favorite tools and technologies
 
 <div align="center">
 
