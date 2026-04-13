@@ -114,23 +114,34 @@
       <br>MongoDB
     </td>
   </tr>
+</table>
 
+</div>
+
+---
+
+## AI Tools I Use
+
+<div align="center">
+
+<table>
   <tr>
     <td align="center" width="96">
-      Claude
-    </td>
-    <td align="center" width="96">
-      Codex
-    </td>
-    <td align="center" width="96">
-      <img src="https://platform.openai.com/assets/img/chatgpt-logo.svg" width="65" height="65" alt="ChatGPT" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png" width="65" height="65" alt="ChatGPT" />
       <br>ChatGPT
     </td>
     <td align="center" width="96">
-      Antigravity
+      <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" width="65" height="65" alt="Claude" />
+      <br>Claude
     </td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/white" width="65" height="65" alt="Codex" />
+      <br>Codex
+    </td>
+    <td align="center" width="96">
+      <img src="https://antigravity.dev/favicon.ico" width="65" height="65" alt="Antigravity" />
+      <br>Antigravity
+    </td>
   </tr>
 </table>
 
@@ -142,22 +153,22 @@
 
 <p align="left">
   <a href="https://bingenz.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="28" height="28" />
+    <img src="https://cdn.simpleicons.org/googlechrome/white" alt="Website" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/bingenz" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="28" height="28" />
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@bingenz_" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok" alt="TikTok" width="28" height="28" />
+    <img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1AUUKX6NHa/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="28" height="28" />
+    <img src="https://cdn.simpleicons.org/facebook/white" alt="Facebook" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/bingenz_ig" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="28" height="28" />
+    <img src="https://cdn.simpleicons.org/instagram/white" alt="Instagram" width="28" height="28" />
   </a>
 </p>
