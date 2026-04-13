@@ -117,20 +117,17 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/anthropic" width="65" height="65" alt="Claude" />
-      <br>Claude
+      Claude
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai" width="65" height="65" alt="Codex" />
-      <br>Codex
+      Codex
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai" width="65" height="65" alt="ChatGPT" />
+      <img src="https://platform.openai.com/assets/img/chatgpt-logo.svg" width="65" height="65" alt="ChatGPT" />
       <br>ChatGPT
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googlechrome" width="65" height="65" alt="Antigravity" />
-      <br>Antigravity
+      Antigravity
     </td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
