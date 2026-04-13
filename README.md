@@ -140,4 +140,4 @@
   </a>
 </p>
 
-- My web: BINGENZ.COM
+- My web: https://bingenz.com/
