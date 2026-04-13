@@ -120,42 +120,9 @@
 
 ---
 
-## AI Tools I Use
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png" width="65" height="65" alt="ChatGPT" />
-      <br>ChatGPT
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" width="65" height="65" alt="Claude" />
-      <br>Claude
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai/white" width="65" height="65" alt="Codex" />
-      <br>Codex
-    </td>
-    <td align="center" width="96">
-      <img src="https://antigravity.dev/favicon.ico" width="65" height="65" alt="Antigravity" />
-      <br>Antigravity
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## Contact
 
 <p align="left">
-  <a href="https://bingenz.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/white" alt="Website" width="28" height="28" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/bingenz" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="28" height="28" />
   </a>
