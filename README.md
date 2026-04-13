@@ -114,6 +114,27 @@
       <br>MongoDB
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/anthropic" width="65" height="65" alt="Claude" />
+      <br>Claude
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai" width="65" height="65" alt="Codex" />
+      <br>Codex
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai" width="65" height="65" alt="ChatGPT" />
+      <br>ChatGPT
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/googlechrome" width="65" height="65" alt="Antigravity" />
+      <br>Antigravity
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
 </table>
 
 </div>
@@ -123,16 +144,23 @@
 ## Contact
 
 <p align="left">
-  <a href="https://bingenz.com">
-    <img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://bingenz.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="28" height="28" />
   </a>
-  <a href="https://github.com/bingenz">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/bingenz" target="_blank">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="28" height="28" />
   </a>
-  <a href="https://www.tiktok.com/@bingenz_">
-    <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@bingenz_" target="_blank">
+    <img src="https://cdn.simpleicons.org/tiktok" alt="TikTok" width="28" height="28" />
   </a>
-  <a href="https://www.facebook.com/share/1AUUKX6NHa/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1AUUKX6NHa/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="28" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/bingenz_ig" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="28" height="28" />
   </a>
 </p>
