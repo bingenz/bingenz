@@ -124,20 +124,16 @@
 
 <p align="left">
   <a href="https://github.com/bingenz" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="28" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="28" height="28" /></a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@bingenz_" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="28" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" width="28" height="28" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1AUUKX6NHa/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/white" alt="Facebook" width="28" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/facebook/white" alt="Facebook" width="28" height="28" /></a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/bingenz_ig" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/white" alt="Instagram" width="28" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/instagram/white" alt="Instagram" width="28" height="28" /></a>
 </p>
 
 - My web: https://bingenz.com/
