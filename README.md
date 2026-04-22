@@ -22,8 +22,7 @@
 
 ## Featured Project
 
-- **Cube Jump Online**  
-  A browser-based arcade jumping game focused on responsive controls, smooth gameplay flow, and lightweight online room features. Built as a practical project to refine game logic, UI behavior, and real-time multiplayer-oriented thinking.
+- **[Cube Jump Online](https://github.com/bingenz/cube-jump-game-online)** — A browser-based arcade jumping game with responsive controls, smooth gameplay flow, and lightweight online room features.
   
 ---
 
