@@ -35,7 +35,7 @@
 
 ---
 
-## My Fav Lang
+## My Favorite
 
 <div align="center">
 
