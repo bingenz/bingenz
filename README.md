@@ -1,7 +1,7 @@
 # Le Thuan
 
 <p align="center">
-  <strong>Backend | Data | Software Building</strong>
+  <strong>Backend | Data | Artificial Intelligence | Software Systems</strong>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## About Me
 
 - Computer Science student from Vietnam
-- Interested in backend development, data, and practical software systems
+- Interested in backend development, data, artificial intelligence, and practical software systems
 - Learning with a focus on clarity, structure, and long-term engineering thinking
 - Building a strong foundation in programming, systems, and real-world development
 
@@ -28,19 +28,22 @@ A browser-first HTML5 canvas game with offline play, responsive controls, and re
 ## Interests
 
 - Backend development
+- Artificial intelligence and applied AI systems
 - Smart contracts and blockchain systems
 - Data and analytical thinking
 - Clear and usable interfaces
 
 ---
 
-## Current Tool
+## Favorite Language
 
 <div align="center">
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br>
-Python
+<strong>Python</strong>
+<br>
+I enjoy Python for its clarity, simplicity, and usefulness in backend development, data, and AI.
 
 </div>
 
