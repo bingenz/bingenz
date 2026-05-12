@@ -43,7 +43,7 @@ A browser-first HTML5 canvas game with offline play, responsive controls, and re
 <br>
 <strong>Python</strong>
 <br>
-I enjoy Python for its clarity, simplicity, and usefulness in backend development, data, and AI.
+Python is my preferred language for building practical systems across backend, data, and applied AI.
 
 </div>
 
