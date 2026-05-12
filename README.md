@@ -4,11 +4,6 @@
   <strong>Backend | Data | Software Building</strong>
 </p>
 
-<p align="center">
-  Computer Science student from Vietnam.<br>
-  Currently learning backend development, data, and software building with clarity, structure, and practical thinking.
-</p>
-
 ---
 
 ## About Me
@@ -28,7 +23,6 @@ A browser-first HTML5 canvas game with offline play, responsive controls, and re
 
 **Built with:** JavaScript, HTML5 Canvas, Cloudflare Workers, Durable Objects, WebSocket, Android WebView
 
-  
 ---
 
 ## Interests
@@ -40,7 +34,7 @@ A browser-first HTML5 canvas game with offline play, responsive controls, and re
 
 ---
 
-## Tools
+## Current Tool
 
 <div align="center">
 
