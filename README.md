@@ -22,7 +22,12 @@
 
 ## Featured Project
 
-- **[Cube Jump Online](https://github.com/bingenz/cube-jump-game-online)** â€” A browser-based arcade jumping game with responsive controls, smooth gameplay flow, and lightweight online room features.
+### [Cube Jump Online](https://github.com/bingenz/cube-jump-game-online)
+
+A browser-first HTML5 canvas game with offline play, responsive controls, and realtime room-based multiplayer.
+
+**Built with:** JavaScript, HTML5 Canvas, Cloudflare Workers, Durable Objects, WebSocket, Android WebView
+
   
 ---
 
