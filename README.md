@@ -19,9 +19,9 @@
 
 ### [Cube Jump Online](https://github.com/bingenz/cube-jump-game-online)
 
-A browser-first HTML5 canvas game with offline play, responsive controls, and realtime room-based multiplayer.
+A production browser-first HTML5 canvas arcade game with offline play, realtime multiplayer rooms, automated payment webhooks, and cross-platform paid-skin entitlements.
 
-**Built with:** JavaScript, HTML5 Canvas, Cloudflare Workers, Durable Objects, WebSocket, Android WebView
+**Built with:** JavaScript, HTML5 Canvas, Cloudflare Workers, Durable Objects, WebSocket, D1, Webhooks, Android WebView, AdMob, Google Play Billing
 
 ---
 
