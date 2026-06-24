@@ -52,7 +52,7 @@ Python is my preferred language for building practical systems across backend, d
 ## Contact
 
 <p>
-  <a href="https://instagram.com/bingenz_ig">Instagram</a> |
+  <a href="https://instagram.com/bin222.e8n">Instagram</a> |
   <a href="https://www.tiktok.com/@bingenz_">TikTok</a> |
   <a href="https://bingenz.com/">Website</a>
 </p>
