@@ -56,8 +56,3 @@ Python is my preferred language for building practical systems across backend, d
   <a href="https://www.tiktok.com/@bingenz_">TikTok</a> |
   <a href="https://bingenz.com/">Website</a>
 </p>
-
-
-/*Khi đang làm việc mà gặp lỗi hoặc rủi ro phát sinh, tôi thường sẽ đánh giá mức độ ảnh hưởng của vấn đề đó trước. Nếu vấn đề có thể ảnh hưởng đến kết quả cuối cùng, tôi sẽ ưu tiên xử lý sớm thay vì bỏ qua và để lỗi tích tụ về sau. Cách làm này giúp tôi giảm công việc tồn đọng, hạn chế sai sót và giữ cho quá trình làm việc ổn định hơn.
-Tôi cũng có thói quen tạo ra các cơ chế kiểm soát sai sót trong công việc và cuộc sống hằng ngày. Ví dụ, thay vì chỉ cố nhớ rằng mình phải mang chìa khóa khi ra khỏi nhà, tôi sẽ đặt chìa ở vị trí bắt buộc phải nhìn thấy khi khóa cửa. Nhờ vậy, tôi giảm được khả năng quên những việc nhỏ nhưng có thể gây ảnh hưởng về sau.
-Tư duy này giúp tôi làm việc cẩn thận hơn, có hệ thống hơn và dành nhiều sự tập trung hơn cho những việc quan trọng.*/
