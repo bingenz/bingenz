@@ -17,7 +17,7 @@
 
 ## Featured Project
 
-### [Cube Jump Online](https://github.com/bingenz/cube-jump-game-online)
+### [Cube Jump Online](https://cubejump.app/)
 
 A production browser-first HTML5 canvas arcade game with offline play, realtime multiplayer rooms, automated payment webhooks, and cross-platform paid-skin entitlements.
 
